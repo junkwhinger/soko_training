@@ -1,0 +1,517 @@
+[INFO] - 2020-01-26 11:25:44,735 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:25:44,736 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:25:57,871 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:25:57,871 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:26:09,625 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:26:09,632 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:26:12,277 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numGoals -> 1.0
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 11:26:12,508 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-26 11:26:36,386 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:26:36,387 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:26:38,794 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 11:26:38,993 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-26 11:26:57,339 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:26:57,339 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:26:59,748 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numGoals -> 1.0
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 11:26:59,913 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-26 11:29:13,147 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:29:13,147 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:29:15,557 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 11:29:15,721 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-26 11:30:51,962 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:30:51,962 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:30:54,374 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 11:30:54,543 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-26 11:31:44,270 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 11:31:44,270 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 11:31:46,684 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 11:31:46,847 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-26 20:31:53,620 - Agent - : Keyboard Interrupted. Wait to finalize.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:120
+[INFO] - 2020-01-26 20:31:53,662 - Agent - : Please wait while finalizing the operation. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:269
+[INFO] - 2020-01-26 20:36:48,764 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-26 20:36:48,764 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-26 20:36:51,409 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-26 20:36:52,018 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-27 10:27:38,911 - Agent - : Please wait while finalizing the operation. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:268
+[INFO] - 2020-01-28 22:48:43,070 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:48:43,083 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:48:45,915 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:48:46,634 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:48:51,106 - Agent - : Keyboard Interrupted. Wait to finalize.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:120
+[INFO] - 2020-01-28 22:48:51,111 - Agent - : Please wait while finalizing the operation. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:268
+[INFO] - 2020-01-28 22:49:00,530 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:49:00,530 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:49:03,180 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:49:03,677 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:49:03,679 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:03,707 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:07,649 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:07,652 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:11,601 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:11,603 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:15,569 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:15,571 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:19,704 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:19,706 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:23,671 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:23,674 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:24,038 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:24,041 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:46,076 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:49:46,076 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:49:48,738 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:49:49,030 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:49:49,051 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:49,082 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:52,446 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:52,458 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:53,713 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:53,724 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:56,614 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:56,623 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:49:59,132 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:49:59,146 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:00,782 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:00,791 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:04,734 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:04,742 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:05,634 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:05,645 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:07,451 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:07,462 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:09,269 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:09,279 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:35,430 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:50:35,438 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:50:38,144 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:50:38,621 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:50:38,624 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:38,650 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:42,678 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:42,690 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:43,945 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:43,954 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:47,913 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:47,922 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:50,798 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:50,806 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:52,048 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:52,058 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:56,016 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:56,025 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:56,916 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:56,925 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:50:58,350 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:50:58,358 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:51:00,151 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:51:00,160 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:54:06,674 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:54:06,674 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:54:09,432 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numGoals -> 1.0
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:54:09,739 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:54:09,741 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:54:09,782 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:54:21,530 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:54:21,531 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:54:24,040 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numGoals -> 1.0
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:54:24,425 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:54:24,427 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:54:24,451 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:55:47,842 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:55:47,842 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:55:50,451 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:55:50,732 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:55:50,736 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:55:50,767 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:56:02,733 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:56:02,734 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:56:05,350 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:56:05,620 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:56:05,622 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:56:05,642 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:56:42,650 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:56:42,663 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:56:45,231 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:56:45,503 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:56:45,509 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_005000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:56:45,643 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 5000) at (iteration 159704)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:57:10,315 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:57:10,325 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:57:12,904 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:57:13,176 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:57:13,179 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/ckpt_025000.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:57:13,203 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 25000) at (iteration 579833)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:57:22,901 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:57:22,901 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:57:25,525 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:57:25,796 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:57:25,799 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:57:25,806 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:58:21,034 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:58:21,035 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:58:23,594 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:58:23,867 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:58:23,870 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/checkpoint.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:58:23,885 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 18) at (iteration 291)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85
+[INFO] - 2020-01-28 22:58:45,939 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-28 22:58:45,939 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-28 22:58:48,607 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+		numGoals -> 1.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-28 22:58:48,891 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:52
+[INFO] - 2020-01-28 22:58:48,894 - Agent - : Loading checkpoint 'experiments/soko_ddqn/checkpoints/model_best.pth.tar' in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:74
+[INFO] - 2020-01-28 22:58:48,909 - Agent - : Checkpoint loaded from 'experiments/soko_ddqn/checkpoints' at (epoch 1) at (iteration 22)
+ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/ddqn.py:85

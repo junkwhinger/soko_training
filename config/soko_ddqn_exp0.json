@@ -1,0 +1,30 @@
+{
+  "exp_name": "soko_ddqn",
+  "env_name": "soko",
+  "env_location": "../",
+  "train_mode": true,
+
+  "agent": "DDQNAgent",
+
+  "cuda": false,
+  "gpu_device": 0,
+  "seed": 1234,
+
+  "start_episode": 1,
+  "num_episodes": 25000,
+
+  "state_dim": 3,
+  "action_dim": 5,
+
+  "memory_capacity": 50000,
+  "batch_size": 32,
+  "learning_rate":0.00025,
+
+  "epsilon_init": 1.0,
+  "epsilon_min": 0.1,
+  "gamma": 0.9,
+  "start_train_episode": 1000,
+  "tau": 1e-3,
+
+  "save_every": 5000
+}

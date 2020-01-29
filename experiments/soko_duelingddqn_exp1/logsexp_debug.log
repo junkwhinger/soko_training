@@ -1,0 +1,20 @@
+[INFO] - 2020-01-29 23:12:53,359 - root - : Root-! in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:69
+[INFO] - 2020-01-29 23:12:53,359 - root - : ------ in /Users/jastills/personal_projects/mlagent_rl/Soko/training/utils/config.py:70
+[INFO] - 2020-01-29 23:12:56,178 - mlagents.envs - : 
+'SokoAcademy' started successfully!
+Unity Academy name: SokoAcademy
+        Number of Brains: 1
+        Number of Training Brains : 1
+        Reset Parameters :
+		numGoals -> 1.0
+		numObstacles -> 1.0
+		numBoxes -> 1.0
+		gridSize -> 5.0
+Unity brain name: SokoWorldLearning
+        Number of Visual Observations (per agent): 1
+        Vector Observation space size (per agent): 0
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): [5]
+        Vector Action descriptions:  in /Users/jastills/anaconda3/envs/rl/lib/python3.6/site-packages/mlagents/envs/environment.py:103
+[INFO] - 2020-01-29 23:12:56,407 - Agent - : Running on CPU.. in /Users/jastills/personal_projects/mlagent_rl/Soko/training/agents/dueling_ddqn.py:52
